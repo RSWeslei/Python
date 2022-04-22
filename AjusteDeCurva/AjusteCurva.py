@@ -43,10 +43,3 @@ print(r2)
 plt.title('R2 = ' + str(r2), loc='left')
 plt.plot(x, y,'*b', xa, ya, '-r');
 plt.show()
-
-
-
-
-
-
-
